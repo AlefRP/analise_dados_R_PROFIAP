@@ -1,4 +1,4 @@
-# Análises de Regressão com R - PROFIAP UNIFAL
+# Análises de Regressão com R - PROFIAP UNIFAL-MG
 
 ## Descrição :pencil:
 Este repositório contém projetos desenvolvidos durante o mestrado PROFIAP na Universidade Federal de Alfenas, focados em análise de dados e estatística utilizando R. As análises abrangem regressão simples, múltipla e logística, incluindo o uso de variáveis dummy.
